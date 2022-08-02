@@ -120,7 +120,6 @@ export class OwnerDetailComponent implements OnInit {
 
   navigateBack() {
     this.location.back();
-    // this.router.navigate(['/home']);
   }
 
   displayPetList() {
